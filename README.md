@@ -1,4 +1,4 @@
-<img src="html5up-forty/images/logo/RBG (1).png" style="zoom:33%;" />
+<img src="https://github.com/JJJinXxxx/JJJinXxxx.github.io/blob/master/images/logo/RBG%20(1).png?raw=true" style="zoom:33%;" />
 
 #                                  JinX's blog
 
