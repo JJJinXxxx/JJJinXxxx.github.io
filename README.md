@@ -1,8 +1,8 @@
-<img src="html5up-forty/images/logo/RBG (1).png" style="zoom:33%;" />
+<img src="https://github.com/JJJinXxxx/JJJinXxxx.github.io/blob/master/images/Rainbow%20God.png?raw=true"  />
 
-#                                  JinX's blog
+#                                                                   JinX's blog
 
-####                                                              编织我彩虹似的梦
+####                                                                                                                           编织我彩虹似的梦
 
 
 
@@ -105,13 +105,13 @@ I decide to divide it into 6 section :
 
 ## 📘Literature
 
-读书笔记
+- [ ] 读书笔记
 
 
 
 ## 🌱Footprints 
 
-成长日记=时间轴+图片
+- [ ] 成长日记=时间轴+图片
 
 
 
